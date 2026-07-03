@@ -5,7 +5,7 @@ public class SampleTest {
 
 	public static void main(String[] args) throws IOException {
 		
-		 DataDriven d = new DataDriven();
+		DataDriven d = new DataDriven();
 		
          ArrayList<?> data=d.getData("RsetAddbook");
          
@@ -25,6 +25,8 @@ public class SampleTest {
          System.out.println(data.get(11)); 
          System.out.println(data.get(12)); 
          System.out.println(data.get(13)); 
+         System.out.println(data.get(11)); 
+         System.out.println(data.get(11)); 
          
 		
 		
