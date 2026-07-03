@@ -12,7 +12,11 @@ public class SampleTest {
          System.out.println(data.get(1));
          System.out.println(data.get(2));
          System.out.println(data.get(3));
-         System.out.println(data.get(4));   
+         System.out.println(data.get(4)); 
+         System.out.println(data.get(5));   
+         System.out.println(data.get(6));   
+         System.out.println(data.get(7)); 
+         System.out.println(data.get(8));   
 		
 		
 	}

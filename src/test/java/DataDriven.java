@@ -54,6 +54,7 @@ public class DataDriven {
         		 //Traverse the all row in each cell
         		 System.out.println("Print all coloumn cell value basis on the column");
         		 System.out.println("In Particular cell print all row cell value");
+        		 System.out.println("In Particular cell print all row cell value");
         		 while(rows.hasNext()) {
         			 
         			 Row r=rows.next();
